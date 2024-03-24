@@ -1,10 +1,15 @@
 #TabsToolbar {
-    visibility: collapse !important;
+ visibility: collapse !important;
 }
-#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
-  display: none;
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]
+
+#sidebar-header {
+ display: none;
 }
 .tab {
-  margin-left: 1px;
-  margin-right: 1px;
- }
+     margin-left: 1px;
+     margin-right: 1px;
+}
+vbox#sidebar-box.chromeclass-extrachrome { border-style: none !important; }
+
+.sidebar-splitter { display: none; }
