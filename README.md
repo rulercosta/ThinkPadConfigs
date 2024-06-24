@@ -1,2 +1,2 @@
-# configs
+# Config files
 ThinkPad arch config files
