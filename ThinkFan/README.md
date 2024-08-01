@@ -15,8 +15,8 @@ For Debian based distros
 
 ### 2. Set-up the configuration file
 
-    cd ~ && git clone git@github.com:rulercosta/configs.git
-    sudo sh -c 'cp configs/ThinkFan/thinkfan.conf /etc/thinkfan.conf'
+    cd ~ && git clone git@github.com:rulercosta/ThinkPadConfigs.git
+    sudo sh -c 'cp ThinkPadConfigs/ThinkFan/thinkfan.conf /etc/thinkfan.conf'
 
 Contents of `/etc/thinkfan.conf` config file is as follows
 
